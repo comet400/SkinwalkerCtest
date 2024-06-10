@@ -1,0 +1,7 @@
+#include"skinWalkerHeaderFile.h"
+
+int randomNumberGenerator(int number, int size) {
+	srand(time(NULL));
+	number = rand() % size;
+	return number;
+}
