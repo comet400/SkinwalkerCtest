@@ -13,8 +13,6 @@ class Skinwalker
 
 class farmers
 {
-private:
-
 	int farmerPlant;
 	int farmerWeld;
 	int famerFish;
@@ -23,8 +21,6 @@ private:
 
 class player
 {
-private:
-
 	int playerHunger;
 	int playerThirst;
 	int playerSanity;
