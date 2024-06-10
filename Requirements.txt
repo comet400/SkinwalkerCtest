@@ -1,0 +1,26 @@
+- Jake: hardworking cheerful farming guy (gives you lots of food) *pumpkin*
+Jacob: introvert creepy guy nerd (helps you out with truck) *animal corpse*
+Robert: middle-aged fisherman, very friendly (might give you better fishing tools) *big fish*
+Daniel: adventurous guy, kinda of ahole (will give you sanity pills) *plushie*
+Maya: village girl, cute, dumb likely the first dead (will give you better crop tools) *tulips seeds*
+Mike: friendly, cautious, a bit paranoid (will help you develop barricades and protection/hiding spots) *gun, if its not a gun -1*
+Trevor: old guy, wise, strong as hell, ex veteran (will give you weapons and help hunting) *nothing*
+Liz (Elizabeth):trevor daughter, strong tomboyish girl, rude as fuck (she trains you, gets more stamina and action points during daytime) *give trevor +1 give it to her -1*
+Layla: extremely gyat farm girl, even more stupid than maya, way too narcissistic (might reveal up to 2 skinwalkers during the gameplay) *shiny things*
+Rose: kind, calming flower girl, very friendly and innocent (will give you flowers, secretly decreases skin walker aggressiveness.) *just show her flower*
+
+initialize all characters in a class
+make sure to have const char* arrays for all dialogues and interactions
+create function that sorts all names based on how big is an int
+create function that randomly selects one to be the skinwalker
+create function that initialize all player stats as promised
+in main, only have functions in order and try to avoid function overloads for better readability
+try to minimize as much as possible calling a function within a function
+
+  Final Product:
+  Make a CMD based game text style that the player will have more then 200 random interactions with the characters and also be able to talk to them and have all sorts of friendly relashionships,
+  all stats should do something within the game, the skinwalker can be any of them, and the skinwalker needs to slowly be spotted, once the player have an idea whos the skinwalker, he should be able
+  to shoot it, if and only if he has a firearm weapon within his inventory, also, all characters should have dialogues for gifts they might receive and the player have to have a fully functional inventory.
+  all characters can do random interactions and they have level of friendship, love and trust with the player, in the end the program should work without bugs and the user needs to be able to use
+  5 different commands "chat" "ask" "gift" "search" "leave", the 5th option "kill" should be displayed once the character has a gun, if the user chooses to kill an innocent person the other villagers will kill
+  him.
