@@ -1,6 +1,6 @@
 #include "Skin.h"
 
-#define PHRASES 99
+#define PHRASES 90
 const char* villager_names[10] =
 {
     "Jake",
