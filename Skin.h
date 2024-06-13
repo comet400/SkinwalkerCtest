@@ -3356,3 +3356,75 @@ public:
     }
 };
 
+class Character_Functions_Jake
+{
+public:
+    void JakeDataCharacterRandomSentence();
+};
+
+class Character_Functions_Jacob
+{
+public:
+    void JacobDataCharacterRandomSentence();
+};
+
+class Character_Functions_Robert
+{
+public:
+    void RobertDataCharacterRandomSentence();
+};
+
+class Character_Functions_Daniel
+{
+public:
+    void DanielDataCharacterRandomSentence();
+};
+
+class Character_Functions_Maya
+{
+public:
+    void MayaDataCharacterRandomSentence();
+};
+
+class Character_Functions_Mike
+{
+public:
+    void MikeDataCharacterRandomSentence();
+};
+
+class Character_Functions_Trevor
+{
+public:
+    void TrevorDataCharacterRandomSentence();
+};
+
+class Character_Functions_Liz
+{
+public:
+    void LizDataCharacterRandomSentence();
+};
+
+class Character_Functions_Layla
+{
+public:
+    void LaylaDataCharacterRandomSentence();
+};
+
+class Character_Functions_Rose
+{
+public:
+    void RoseDataCharacterRandomSentence();
+};
+
+void PrintInfoJake();
+void PrintInfoJacob();
+void PrintInfoRobert();
+void PrintInfoDaniel();
+void PrintInfoMaya();
+void PrintInfoMike();
+void PrintInfoTrevor();
+void PrintInfoLiz();
+void PrintInfoLayla();
+void PrintInfoRose();
+int randomNumberGenerator(int number, int size);
+
